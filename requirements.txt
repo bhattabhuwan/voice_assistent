@@ -1,0 +1,8 @@
+# filepath: d:\voice_assistent\voice-assistant\requirements.txt
+speechrecognition>=3.10.0
+pyttsx3>=2.90
+pyaudio>=0.2.13
+pillow>=10.0.0
+PyQt6>=6.5.0
+numpy>=1.24.0
+requests>=2.31.0
