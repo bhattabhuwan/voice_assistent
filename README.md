@@ -44,7 +44,7 @@ voice-assistant/
 
 1. **Clone the repository:**
    ```cmd
-   git clone <repository-url>
+   git clone <(https://github.com/bhattabhuwan/voice_assistent)>
    cd voice-assistant
    ```
 
