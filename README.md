@@ -151,5 +151,5 @@ ZILNOVA is an advanced voice assistant with a modern user interface and natural 
 
 ## Support
 
-For support or to report issues, please contact: [Your Contact Information]
+For support or to report issues, please contact:bhattabhuwan233@gmail.com
 
